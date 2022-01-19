@@ -37,4 +37,7 @@ class HomeController extends Controller
             'listCategory' => $this->listCategory,
             'oneCategory' => $this->oneCategory,
         ]);
+    }
+    
 }
+
